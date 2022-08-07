@@ -1,2 +1,3 @@
-﻿
-Console.WriteLine("Hello, World!");
+﻿Console.WriteLine("Введите числа");
+int value = ();
+int value = ();
